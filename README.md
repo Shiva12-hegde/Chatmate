@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+ChatMate is an AI-powered conversational web app that delivers natural, human-like interactions through a sleek and responsive interface. Designed with a modern tech stack, it combines speed, scalability, and simplicity to create an engaging user experience. The app integrates seamlessly with the Gemini API to provide dynamic, real-time responses, making it feel more like a companion than just a chatbot.
 
-# Run and deploy your AI Studio app
+With its clean design and modular architecture, ChatMate is built for both ease of use and flexibility. Whether you want a personal assistant, a study partner, or a space to explore ideas, the app adapts to your needs. It is lightweight, customizable, and developer-friendly, making it ideal for experimentation as well as production use.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1viDMMIS1FMoa1hC0sCQgJDqPUMGmaYA2
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ChatMate’s uniqueness lies in its balance between advanced AI capabilities and intuitive usability. It is more than a simple chat app—it’s a foundation for human-AI interaction that can be extended and evolved for different use cases such as education, productivity, and entertainment.
