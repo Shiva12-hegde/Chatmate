@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Chatmate",
+  "description": "A modern AI-powered chat application that provides human-like, empathetic, and real-time conversational support. It features a clean, intuitive interface for users to interact with an AI that feels less like a machine and more like a reliable companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
